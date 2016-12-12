@@ -1,0 +1,55 @@
+<resources>
+    <string name="appp_name">Android Login and Registration</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Click here to sign up.</string>
+    <string name="btn_link_to_login">Already registred? Click here to Login .</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string name="app_name">股票預測驗證平台</string>
+    <string name="home">Home</string>
+    <string name="about">About Us</string>
+    <string name="report">Report Bug</string>
+    <string name="subscription">Subscription</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="oraclet">Oraclet Information</string>
+    <string name="msg_NoNetwork">No network connection available</string>
+    <string name="showGraph">Show Graph</string>
+    <string name="graph">Graphs</string>
+    <string name="title_graph_activity">Graphs from MPcharts</string>
+    <string name="Back">Back</string>
+    <string name="hotOraclet">Popular Oraclet Search</string>
+    <string name="StockID">Stock ID input , ex: 2823</string>
+    <string name="submitID">Submit ID</string>
+    <string name="submitDate">Submit Date</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="noID">Invalid ID</string>
+    <string name="noDate">Invalid Date</string>
+
+    <string name="showComment">Show Comment</string>
+    <string name="Date">Date input , ex: 2012-08-25</string>
+    <string name="subscribed">Subscribed successfully!</string>
+    <string name="showContradiction">show Contradiction</string>
+    <string name="Sell">Sell List</string>
+    <string name="buy">Buy List</string>
+
+
+
+
+
+
+
+
+</resources>
